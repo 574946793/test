@@ -1,4 +1,4 @@
 #台湾节点直播源
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-IP-CIDR,149.104.24.64/29
+DOMAIN-KEYWORD,hamivideo
