@@ -5,9 +5,9 @@ DOMAIN-KEYWORD,tvcastlive-hamivideo
 DOMAIN-KEYWORD,mobileevent-hamivideo
 DOMAIN-SUFFIX,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,mobileevent-hamivideo.cdn.hinet.net
-#DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,yeslivetv
 DOMAIN-KEYWORD,ofiii
-#DOMAIN-KEYWORD,litv
+DOMAIN-KEYWORD,litv
 IP-CIDR,60.250.121.96/28,no-resolve
 IP-CIDR,211.23.95.147/32,no-resolve
