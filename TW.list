@@ -1,7 +1,10 @@
 #台湾节点直播源
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-KEYWORD,hamivideo
+DOMAIN-KEYWORD,tvcastlive-hamivideo
+DOMAIN-KEYWORD,mobileevent-hamivideo
+DOMAIN-SUFFIX,tvcastlive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,mobileevent-hamivideo.cdn.hinet.net
 DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,yeslivetv
 DOMAIN-KEYWORD,ofiii
