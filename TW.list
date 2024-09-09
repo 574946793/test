@@ -7,3 +7,4 @@ DOMAIN-KEYWORD,yeslivetv
 DOMAIN-KEYWORD,ofiii
 DOMAIN-KEYWORD,litv
 IP-CIDR,60.250.121.96/28,no-resolve
+IP-CIDR,211.23.95.147/32,no-resolve
