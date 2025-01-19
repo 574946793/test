@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,yeslivetv
 DOMAIN-KEYWORD,ofiii
 DOMAIN-KEYWORD,litv
+DOMAIN-KEYWORD,hinet
 IP-CIDR,60.250.121.96/28,no-resolve
 IP-CIDR,211.23.95.147/32,no-resolve
 IP-CIDR,60.250.121.217/32,no-resolve
@@ -16,3 +17,4 @@ IP-CIDR,59.124.81.19/32,no-resolve
 DOMAIN,weblivea-hamivideo.cdn.hinet.net
 DOMAIN,mobileevent-hamivideo.cdn.hinet.net
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
+DOMAIN,ntdofifreepc.akamaized.net
